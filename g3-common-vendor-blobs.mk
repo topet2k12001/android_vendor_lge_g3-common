@@ -23,13 +23,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
-    vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Bluetooth_cal.acdb:system/etc/acdbdata/g3/Bluetooth_cal.acdb \
-    vendor/lge/g3-common/proprietary/etc/acdbdata/g3/General_cal.acdb:system/etc/acdbdata/g3/General_cal.acdb \
-    vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Global_cal.acdb:system/etc/acdbdata/g3/Global_cal.acdb \
-    vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Handset_cal.acdb:system/etc/acdbdata/g3/Handset_cal.acdb \
-    vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Hdmi_cal.acdb:system/etc/acdbdata/g3/Hdmi_cal.acdb \
-    vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Headset_cal.acdb:system/etc/acdbdata/g3/Headset_cal.acdb \
-    vendor/lge/g3-common/proprietary/etc/acdbdata/g3/Speaker_cal.acdb:system/etc/acdbdata/g3/Speaker_cal.acdb \
+    vendor/lge/g3-common/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
+    vendor/lge/g3-common/proprietary/etc/acdbdata/General_cal.acdb:system/etc/acdbdata/General_cal.acdb \
+    vendor/lge/g3-common/proprietary/etc/acdbdata/Global_cal.acdb:system/etc/acdbdata/Global_cal.acdb \
+    vendor/lge/g3-common/proprietary/etc/acdbdata/Handset_cal.acdb:system/etc/acdbdata/Handset_cal.acdb \
+    vendor/lge/g3-common/proprietary/etc/acdbdata/Hdmi_cal.acdb:system/etc/acdbdata/Hdmi_cal.acdb \
+    vendor/lge/g3-common/proprietary/etc/acdbdata/Headset_cal.acdb:system/etc/acdbdata/Headset_cal.acdb \
+    vendor/lge/g3-common/proprietary/etc/acdbdata/Speaker_cal.acdb:system/etc/acdbdata/Speaker_cal.acdb \
     vendor/lge/g3-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/g3-common/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/lge/g3-common/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
@@ -215,4 +215,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/lge/g3-common/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/lge/g3-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so 
+    vendor/lge/g3-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so
